@@ -1,7 +1,7 @@
 # fall2023-robkine
 Multipart project in the course MEGN544 Robot Mechanics: Kinematics, Dynamics, and Control in Fall 2023 at the Colorado School of Mines.
 
-The project is completed using MATLAB with Simulink.
+The project is completed using MATLAB with Simulink. MATLAB code files are available upon requests to huynh@mines.edu.
 
 Part 1: transform from 2D points for the a trajectory resembling the letters CSM (standing for Colorado School of Mines) to 3D points and plot those 3D points with local coordinates, where the x-axis points at the next point in the trajectory.
 
