@@ -1,9 +1,11 @@
 # fall2023-robkine
 Multipart project in the course MEGN544 Robot Mechanics: Kinematics, Dynamics, and Control in Fall 2023 at the Colorado School of Mines.
 
+The main goal of the project is to implement a robot arm controller (for an ABB arm model) to trace the letters "CSM" (standing for Colorado School of Mines) with the level of accuracy and complexity achievable within one semester.
+
 The project is completed using MATLAB with Simulink. MATLAB code files are available upon requests to huynh@mines.edu.
 
-Part 1: transform from 2D points for the a trajectory resembling the letters CSM (standing for Colorado School of Mines) to 3D points and plot those 3D points with local coordinates, where the x-axis points at the next point in the trajectory.
+Part 1: transform from 2D points for the a trajectory resembling the letters CSM to 3D points and plot those 3D points with local coordinates, where the x-axis points at the next point in the trajectory.
 
 Part 2: start using MATLAB Simulink to trace the CSM 3D points, stopping at each point, with a sample controller already given by the instructor, using theta and theta dot error feedback with PID gains.
 
